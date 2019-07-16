@@ -5,14 +5,19 @@ Greetings. This is the main page for 2019 Red Hat Partner Tech Days. These 1-day
 
 The intent is to enable Red Hat Business partners with updates on our latest products and deliver capabilities through self-paced exercises.  
 
-Agenda
+Agenda:
 8:00 a.m. – 8:30 a.m.	Check-In and Continental Breakfast
 8:30 a.m. – 9:00 a.m.	Introduction Day Overview
 9:00 a.m. – 10:20 a.m.	RHEL 8 and Red Hat Virtualization (RHV) 4
+
 10:20 a.m. – 10:30 a.m.	Break
+
 10:30 a.m. – 12:00 p.m.	OCP 4 and Ansible Automation
+
 12:00 p.m. – 1:00 p.m.	Lunch & Partnering w/ Red Hat Professional Services
+
 1:00 p.m. – 4:00 p.m.	Open Labs: RHEL 8, OCP 4, Ansible, and RHV 4
+
 4:00 p.m. – 6:00 p.m.	Happy Hour
 
 
