@@ -7,7 +7,7 @@ https://redhat-events.com/PartnerTraining/workshops
 
 The intent is to enable Red Hat Business partners with updates on our latest products and deliver capabilities through self-paced exercises.  
 
-Agenda:
+## Agenda
 
 * **8:00 a.m. – 8:30 a.m.**	*Check-In and Continental Breakfast*
 * **8:30 a.m. – 9:00 a.m.**	Introduction Day Overview
@@ -22,7 +22,7 @@ Agenda:
 * **4:00 p.m. – 6:00 p.m.**	*Happy Hour*
 
 
-## Table of Contents
+## Content
 
 ### Morning:
 
