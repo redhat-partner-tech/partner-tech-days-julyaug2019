@@ -1,11 +1,13 @@
 # Red Hat Partner Tech Days 2019
 
 
-Greetings. This is the main page for 2019 Red Hat Partner Tech Days. These 1-day events are run in various cities in July/August, with the main landing/registration page located here: https://redhat-events.com/PartnerTraining/workshops
+Greetings. This is the main page for 2019 Red Hat Partner Tech Days. These 1-day events are run in various cities in July/August, with the main landing/registration page located here:
+https://redhat-events.com/PartnerTraining/workshops
 
 The intent is to enable Red Hat Business partners with updates on our latest products and deliver capabilities through self-paced exercises.  
 
 Agenda:
+
 8:00 a.m. – 8:30 a.m.	Check-In and Continental Breakfast
 8:30 a.m. – 9:00 a.m.	Introduction Day Overview
 9:00 a.m. – 10:20 a.m.	RHEL 8 and Red Hat Virtualization (RHV) 4
@@ -37,7 +39,7 @@ Agenda:
 
 ### Afternoon:
 
-  * [Open Labs]
+  * Open Labs
     - [Ansible](link) - Self-paced networking labs
     - [RHEL 8](link) - Self-paced RHEL 8 labs 
     - [OpenShift 4](link) - Self-paced OCP 4 labs 
