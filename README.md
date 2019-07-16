@@ -5,7 +5,7 @@ Greetings. This is the main page for 2019 Red Hat Partner Tech Days. These 1-day
 
 https://redhat-events.com/PartnerTraining/workshops
 
-The intent is to enable Red Hat Business partners with updates on our latest products and deliver capabilities through self-paced exercises.  
+The intent is to enable Red Hat Business Partners with updates on our latest products and deliver capabilities through self-paced open labs.  
 
 ## Agenda
 
@@ -26,20 +26,20 @@ The intent is to enable Red Hat Business partners with updates on our latest pro
 
 ### Morning:
 
-  * [Presentation Decks](link)(https://link) 
-     - [Ansible Deck](link)(https://link)
-     - [RHEL 8 Deck](link)(https://link)
-     - [OpenShift 4 Deck](link)(https://link) 
-     - [RHV Deck](link)(https://link)
+  * Presentation Decks 
+     - [Ansible Automation Update] (link)(https://link)
+     - [RHEL 8 Update] (link)(https://link)
+     - [OpenShift 4 Update] (link)(https://link) 
+     - [RHV 4 Update] (link)(https://link)
   
 ### Lunch: 
 
-  * [Presentation: Partnering w/ Red Hat Professional Services](link)(https://link) 
+  * [Presentation: Partnering w/ Red Hat Professional Services] (link)(https://link) 
 
 ### Afternoon:
 
   * Open Labs
-    - [Ansible](link) - Self-paced networking labs
+    - [Ansible Automation](link) - Self-paced networking labs
     - [RHEL 8](link) - Self-paced RHEL 8 labs 
     - [OpenShift 4](link) - Self-paced OCP 4 labs 
     - [RHV](link) - Self-paced RHV 4.3 labs 
