@@ -2,6 +2,7 @@
 
 
 Greetings. This is the main page for 2019 Red Hat Partner Tech Days. These 1-day events are run in various cities in July/August, with the main landing/registration page located here:
+
 https://redhat-events.com/PartnerTraining/workshops
 
 The intent is to enable Red Hat Business partners with updates on our latest products and deliver capabilities through self-paced exercises.  
