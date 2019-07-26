@@ -27,19 +27,19 @@ The intent is to enable Red Hat Business Partners with updates on our latest pro
 ### Morning:
 
   * Presentation Decks 
-     - [Ansible Automation Update] (link)(https://link)
-     - [RHEL 8 Update] (link)(https://link)
-     - [OpenShift 4 Update] (link)(https://link) 
-     - [RHV 4 Update] (link)(https://link)
+     - RHEL 8 Update
+     - RHV Update
+     - OpenShift 4 Update
+     - Ansible Automation Update
   
 ### Lunch: 
 
-  * [Presentation: Partnering w/ Red Hat Professional Services] (link)(https://link) 
+  * Presentation: Partnering w/ Red Hat Professional Services
 
 ### Afternoon:
 
   * Open Labs
-    - [Ansible Automation](link) - Self-paced networking labs
-    - [RHEL 8](link) - Self-paced RHEL 8 labs 
-    - [OpenShift 4](link) - Self-paced OCP 4 labs 
-    - [RHV](link) - Self-paced RHV 4.3 labs 
+    - [RHEL](https://github.com/redhat-partner-tech/partner-tech-days/tree/master/RHEL8) - Self-paced RHEL 8 labs 
+    - [RHV](https://github.com/redhat-partner-tech/partner-tech-days/tree/master/RHV) - Self-paced RHV 4.3 labs 
+    - [OpenShift](https://github.com/redhat-partner-tech/partner-tech-days/tree/master/OpenShift4) - Self-paced OCP 4 labs 
+    - [Ansible Automation](https://github.com/redhat-partner-tech/partner-tech-days/tree/master/Ansible) - Self-paced Ansible Networking labs
