@@ -6,12 +6,12 @@
 
   vars_files:
     - ovirt_infra_vars.yml
-    - password.yml
+    - passwords.yml
   
-pre_tasks:
+  pre_tasks:
     - name: Login to RHV-M
       ovirt_auth:
-        hostname: "{{ engine_url }}"
+        url: "{{ engine_url }}"
         username: "{{ engine_user }}"
         password: "{{ engine_password }}"
         ca_file: "{{ engine_cafile | default(omit) }}"
@@ -20,29 +20,33 @@ pre_tasks:
         - always
 
   vars:
-    datacenter: DC01
-    cluster: Production
-    template: rhel-7.5-demo
-    vm_memory: 1GiB
-    vm_name: vm-3
+    wait_for_ip: true
 
+    lab_test_vm:
+      cluster: Production
+      state: running
+      domain: example.com
+      template: rhel-7.5-demo
+      memory: 1GiB
+      cores: 2
+      disks:
+        - size: 10GiB
+          name: data
+          storage_domain: vmstore00
+          interface: virtio
 
-  tasks:
-  - name: Create and run VM from template
-    ovirt_vms:
-     auth: "{{ ovirt_auth }}"
-      name: "{{ vm_name }}"
-      template: "{{ template }}"
-      cluster: "{{ cluster }}"
-      memory: "{{vm_memory}}"
-      high_availability: true
-      state: present
-      wait: yes
+    vms:
+      - name: vm-3
+        tag: lab
+        profile: "{{ lab_test_vm }}"
+
+  roles:
+   - ovirt-vm-infra
 
   post_tasks:
-    - name: Logout from RHV-M
-      ovirt_auth:
-        state: absent
-        ovirt_auth: "{{ ovirt_auth }}"
-     tags:
-       - always
+  - name: Logout from RHV-M
+    ovirt_auth:
+      state: absent
+      ovirt_auth: "{{ ovirt_auth }}"
+    tags:
+      - always
