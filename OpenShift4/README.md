@@ -5,5 +5,5 @@
 
 To login using CLI
 
-oc login https://api.cluster-atl-ac1c.atl-ac1c.openshiftworkshop.com:6443 -u userid -p r3dh4t1!
+oc login https://api.cluster-atl-ac1c.atl-ac1c.openshiftworkshop.com:6443 -u someuserid -p r3dh4t1!
  
