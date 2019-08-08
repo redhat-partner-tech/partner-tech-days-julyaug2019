@@ -1,5 +1,10 @@
 # Ansible Networking Labs
 
-- [Ansible Networking Labs](https://ipvsean.github.io/workshops/exercises/ansible_network/)
-- [Atlanta Workshop Machines](https://s3.us-east-2.amazonaws.com/ptdatlanta.rhdemo.io/ptdatlanta-index.html)
+Partner Tech Day: Toronto
+ - [Click Here to access your lab](http://https://s3.amazonaws.com/ptdtoronto.rhdemo.io/ptdtoronto-index.html)
+ - Ansible Tower Info:
+    * **admin / ansible**
+    
+- [Ansible Networking Lab Documentation](https://ipvsean.github.io/workshops/exercises/ansible_network/)
+
  
