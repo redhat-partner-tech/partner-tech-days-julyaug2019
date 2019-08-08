@@ -4,6 +4,10 @@
 
 Partner Tech Day: Toronto
  - [Click Here to access your lab](http://bit.ly/2TaeoHe)
+    * **Be sure to chose the RHEL 8 lab**
     * This link will show "The lab environments are not yet available." until lab provisioning is complete
  - Once ready, use the link above to access your RHV lab environment
-    * Lab Activation Key: rhel4u!
+    * Lab Activation Key: **rhel4u!**
+ - Login Info:
+    * **student / r3dh4t1!**
+    
