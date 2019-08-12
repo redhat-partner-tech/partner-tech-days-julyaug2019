@@ -4,11 +4,11 @@
 
 To login using CLI
 
-oc login < URL per city below *** WORKSHOP CITY URLS ***> -u user# -p r3dh4t1!
+oc login < URL per city below *** PARTNER TECH DAY CITY API URLS ***> -u user# -p r3dh4t1!
 
 user# example: user2
 
-*** WORKSHOP CITY URLS ***
+*** PARTNER TECH DAY CITY API URLS ***
 
 Sunnyvale: https://api.cluster-sjc-cb2d.sjc-cb2d.openshiftworkshop.com:6443
 
@@ -16,3 +16,11 @@ Plano:
 
 NYC: 
  
+*** PARTNER TECH DAY CITY CONSOLE ***
+
+Sunnyvale: http://console-openshift-console.apps.cluster-sjc-cb2d.sjc-cb2d.openshiftworkshop.com
+
+Plano:
+
+NYC: 
+
