@@ -1,6 +1,6 @@
 # RHEL 8 Labs
 
-- [RHEL 8 Labs Documentaion](https://github.com/xtophd/RHEL8-Workshop/blob/master/documentation/RHEL8-Workshop.adoc)
+[RHEL 8 Labs Documentaion](https://github.com/xtophd/RHEL8-Workshop/blob/master/documentation/RHEL8-Workshop.adoc)
 
  - **Dallas** (8/13) -- [Click Here to access your lab](http://bit.ly/2TaeoHe)
  - **NYC** (8/13) -- [Click Here to access your lab](http://bit.ly/2TaeoHe)
