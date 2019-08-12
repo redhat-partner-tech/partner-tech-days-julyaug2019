@@ -5,7 +5,7 @@
 
 To login using CLI
 
-oc login https://bit.ly/2Yw3CRz -u user# -p r3dh4t1!
+oc login https://api.cluster-sjc-cb2d.sjc-cb2d.openshiftworkshop.com:6443 -u user# -p r3dh4t1!
 
 user# example: user2
  
