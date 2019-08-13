@@ -5,7 +5,7 @@
 Ansible Labs:
  - **Dallas** (8/13) -- [Click Here to access your lab](https://s3.amazonaws.com/ptddallas.rhdemo.io/ptddallas-index.html)
  - **NYC** (8/13) -- [Click Here to access your lab](https://s3.amazonaws.com/ptdnyc.ptd.rhdemo.io/ptdnyc-index.html)
- - **Sunnyvale** (8/13) -- http://bitly
+ - **Sunnyvale** (8/13) -- http://bit.ly/ptd-auto
  
  - Ansible Tower Info:
     * **admin / ansible**
