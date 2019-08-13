@@ -1,0 +1,40 @@
+
+To login in via the Command Line:   oc login http://bit.ly/OCPcommand813 -u user# -p r3dh4t1!
+
+To login via the Web Console:   http://bit.ly/OCPNYC813
+
+How do I interact with container runtimes? (ex: docker)
+https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users/
+https://developers.redhat.com/search/?t=podman&f=type%7Echeatsheet
+
+Are these Kubernetes / Container platforms portable?
+https://www.redhat.com/en/blog/limits-compatibility-and-supportability-containers
+
+How do I interact with the cluster itself, so the Kubernetes API? (ex: kubectl)
+http://kubernetesbyexample.com/
+
+How do I use an Operator?
+https://operatorhub.io
+
+Can I use Helm Charts with OpenShift?
+https://docs.openshift.com/container-platform/4.1/applications/operator_sdk/osdk-helm.html
+
+What is the architecture of the AWS buildout of OCP4?
+https://github.com/openshift/installer/blob/master/docs/user/aws/install.md
+
+Is there a trial for OpenShift where I don’t have to install anything (aka. Cloud hosted)?
+https://try.openshift.com/
+
+Does Red Hat have quick-n-free training for OpenShift?
+http://learn.openshift.com/
+https://developers.redhat.com/topics/kubernetes/
+
+Is there a hosted development environment for OpenShift? (ex: hosted IDE)
+https://openshift.io
+
+Is there a way to run OpenShift on my laptop?
+Minishift/CDK(Container Development Kit) for OpenShift v3.x: https://developers.redhat.com/products/cdk/overview
+CRC(CodeReady Containers) for OpenShift v4.x - in private Beta, please let us know how you can be notified on GA
+
+Command/CLI overload - isn’t there a cheatsheet?
+https://developers.redhat.com/search/?f=type%7Echeatsheet
