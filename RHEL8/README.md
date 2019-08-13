@@ -4,8 +4,8 @@
 
 RHEL 8 Labs:
  - **Dallas** (8/13) -- [Click Here to access your lab](https://www.opentlc.com/gg/gg.cgi?profile=generic_nasa_mwatkins)
- - **NYC** (8/13) -- [Click Here to access your lab](http://bit.ly/2TaeoHe)
- - **Sunnyvale** (8/13) -- [Click Here to access your lab](http://bit.ly/2TaeoHe)
+ - **NYC** (8/13) -- [Click Here to access your lab]()
+ - **Sunnyvale** (8/13) -- [Click Here to access your lab]()
     * **Be sure to chose the RHEL 8 lab**
     * Your link will show **"The lab environments are not yet available."** until lab provisioning is complete
 
