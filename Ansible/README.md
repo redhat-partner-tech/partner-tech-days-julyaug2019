@@ -4,7 +4,7 @@
 
 Ansible Labs:
  - **Dallas** (8/13) -- [Click Here to access your lab](https://s3.amazonaws.com/ptddallas.rhdemo.io/ptddallas-index.html)
- - **NYC** (8/13) -- [Click Here to access your lab]()
+ - **NYC** (8/13) -- http://bit.ly/RHPTD2019
  - **Sunnyvale** (8/13) -- [Click Here to access your lab]()
  
  - Ansible Tower Info:
