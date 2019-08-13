@@ -11,6 +11,8 @@ RHEL 8 Labs:
 
  - Once ready, use the link above to access your RHEL lab environment
     * Lab Activation Key: **rhel4u!**
+    * NYC Lab Activation Key: ansible
+   
  - Login Info:
     * **student / r3dh4t1!**
     
