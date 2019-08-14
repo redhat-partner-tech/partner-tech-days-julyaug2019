@@ -3,7 +3,7 @@
 [Ansible Networking Lab Documentation](https://ipvsean.github.io/workshops/exercises/ansible_network/)
 
 Ansible Labs:
- - **Dallas** (8/13) -- [Click Here to access your lab](https://s3.amazonaws.com/ptddallas.rhdemo.io/ptddallas-index.html)
+ - **Dallas** (8/14) -- [Click Here to access your lab]()
  - **NYC** (8/13) -- [Click Here to access your lab](https://s3.amazonaws.com/ptdnyc.ptd.rhdemo.io/ptdnyc-index.html)
  - **Sunnyvale** (8/13) -- https://s3-us-west-1.amazonaws.com/ptdsunnyvale.ptd.rhdemo.io/ptdsunnyvale-index.html
  
