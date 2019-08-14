@@ -1,7 +1,7 @@
 
-To login in via the Command Line:   oc login http://bit.ly/OCPcommand813 -u user# -p r3dh4t1!
+Log in via the Cmd Line: oc login https://api.cluster-nyc-9db0.nyc-9db0.openshiftworkshop.com:6443 -u user# -p r3dh4t1!
 
-To login via the Web Console:   http://bit.ly/OCPNYC813
+Login via the Web Console: http://console-openshift-console.apps.cluster-nyc-9db0.nyc-9db0.openshiftworkshop.com
 
 How do I interact with container runtimes? (ex: docker)
 https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users/
