@@ -4,9 +4,9 @@
 
   - [Click Here to Download OC CLI Tool](https://mirror.openshift.com/pub/openshift-v4/clients/ocp/4.1.4)
   - To login in via the Command Line: 
-    - oc login https://api.cluster- -u user# -p r3dh4t1!
+    - oc login https://api.cluster-dfw-f592.dfw-f592.openshiftworkshop.com:6443 -u user# -p r3dh4t1!
   - To login via the Web Console:
-    - http://console-openshift- 
+    - http://console-openshift-console.apps.cluster-dfw-f592.dfw-f592.openshiftworkshop.com
 
 ================================
 
