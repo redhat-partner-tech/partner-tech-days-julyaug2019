@@ -4,7 +4,7 @@
 
 ================================
 
-**NYC Labs (8/14)**
+**Boston Labs (8/15)**
 
   - [Click Here to Download OC CLI Tool](https://mirror.openshift.com/pub/openshift-v4/clients/ocp/4.1.4)
   - To login in via the Command Line:
