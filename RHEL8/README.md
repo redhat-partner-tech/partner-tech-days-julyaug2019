@@ -10,7 +10,7 @@ RHEL 8 Labs:
     * Your link will show **"The lab environments are not yet available."** until lab provisioning is complete
 
  - Once ready, use the link above to access your RHEL lab environment
-    * Lab Activation Key: **rhel4u!**
+   
     * NYC Lab Activation Key: ansible
    
  - Login Info:
